@@ -17,5 +17,5 @@ After launching, KoCo Chat will start running on your system. Explore the app an
 
 **System Requirements**
 Operating System: Windows 10 or later
-Disk Space: 890 MB of free storage
+Disk Space: 805 MB of free storage
 Network: Active internet connection for chat functionality
