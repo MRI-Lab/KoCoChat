@@ -4,7 +4,7 @@
 1. Download the exe File
 We’ve hosted the executable file for KoCo Chat on a cloud drive. Click the link below to download the application:
 
-👉 Download KoCo Chat .exe (https://drive.google.com/file/d/1FdxDvQJhovmHiuuMqowg-ciRfO-z8-0z/view?usp=sharing)
+👉 Download KoCo Chat .exe (https://drive.google.com/file/d/1BgbowPTFxQMBUahW6gitc1ed4Rq66Ztu/view?usp=drive_link)
 
 **2. Run the Application**
 Once the file is downloaded, follow these steps to run the app:
